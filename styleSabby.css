@@ -11,12 +11,15 @@ header {
     color: white;
     padding: 20px;
 }
+li {
+    text-align: left;
 
+}
 img {
     width: 90%;
-    max-width: 400px;
+    max-width: 700px;
     height: auto;
-    border-radius: 10px;
+    border-radius: 20px;
 }
 
 /* Responsive design using media query */
